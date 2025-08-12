@@ -38,14 +38,14 @@ The discussions and examples provided here are applicable to a range of games fo
 
 ### Official Website
 
-For more comprehensive tutorials and additional resources, please visit our [official site](https://www.hookcoder.shop).
+For more comprehensive tutorials and additional resources, please visit our [official site](https://github.com/Yaad703/fatehmods-kuro-panel).
 
 ### Contact and Support
 
 For inquiries, further discussions, or support, feel free to reach out through Telegram:
 
-- [DevilNixonHack](https://t.me/DevilNixonHackk)
-- [RoyalKingstone8832](https://t.me/royalKingstone8832)
+- [FATEHMODS](edit)
+- [FATEHMODS](edit)
 
 ## Contribution
 
